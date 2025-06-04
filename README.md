@@ -18,6 +18,7 @@ quarkTask é uma aplicação web simples para gerenciamento de tarefas diárias.
 - 🗑️ Excluir tarefa
 - 🔁 Marcar como concluída / pendente
 - 🔍 Filtrar tarefas por status (concluída/pendente)
+- Funcionalida implemntadas do email(a, b, c, d, e) 
 
 ## 📦 Como executar o projeto
 - 🛠️ Pré-requisitos
